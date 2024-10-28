@@ -1,7 +1,7 @@
 {
   "greeting": "Hola",
   "name": "Mama",
-  "greetingText": "",
+  "greetingText": "carinos de tu hijo alans",
   "wishText": "que pases un dia feliz",
   "imagePath": "img\\9U7A4220.jpg",
   "text1": "hoy es un dia especial!!!",
@@ -12,12 +12,12 @@
   "text4": "pero te lo doy cuando estemos en casa",
   "text4Adjective": "te quiero mucho!",
   "text5Entry": "muchos besos",
-  "text5Content": "",
+  "text5Content": "que pases un dia muy bonito",
   "smiley": ":)",
-  "bigTextPart1": "y otras vez",
-  "bigTextPart2": "que pases un",
+  "bigTextPart1": "otra vez",
+  "bigTextPart2": "que tengas un",
   "wishHeading": "Feliz Cumpleanos!",
-  "outroText": "te mando muchas fotos que pude encontrar",
+  "outroText": "te mando muchas fotos",
   "replayText": "has click si lo quieres ver otra vez",
   "outroSmiley": ":)"
 }
